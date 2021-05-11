@@ -2134,6 +2134,7 @@ Bouton de contrôle du carrousel
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
+    margin-right: 100px;
   }
 }
 

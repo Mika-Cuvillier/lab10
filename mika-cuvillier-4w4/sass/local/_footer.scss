@@ -12,6 +12,7 @@
         padding-left: 50px;
         @include media-desktop{ 
         flex-direction: row;
+        margin-right: 100px;
         }
     }
 }
