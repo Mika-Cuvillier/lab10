@@ -1441,6 +1441,10 @@ body.home::after {
   }
 }
 
+.site-main h2, .site-main h3 {
+  color: black;
+}
+
 /* Local/burger
 --------------------------------------------- */
 /* --------------------------------------------------------------------------------------
@@ -2094,6 +2098,7 @@ Bouton de contrôle du carrousel
 .galerie h1 a:link {
   color: black;
   text-align: center;
+  text-decoration: none;
 }
 
 .archive-description p {
